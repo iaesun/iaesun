@@ -8,10 +8,9 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://www.iuhero.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://gitee.com/owndawn/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
-  <a href="https://www.cnblogs.com/CnDawn/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-orange"></a>&emsp;
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=334066665&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-%E8%81%94%E7%B3%BB-brightgreen"></a>&emsp;
+  <a href="https://www.iaesun.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://gitee.com/imosun/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
+  <a href="https://www.cnblogs.com/imosun/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-orange"></a>&emsp;
   <a href="https://blog.csdn.net/m0_61307402"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/1361359223/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/dawns55/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
@@ -24,16 +23,16 @@
 
 #  🙋 Hi！Welcome to my world.
 
-<p>&nbsp;&nbsp;✍️大家好，我是Dawn! Java小白程序员一枚，喜欢互联网世界中的浪漫，穷则独善其身，而达则兼济天下!</p>
+<p>&nbsp;&nbsp;✍️大家好，我是Sun! Java小白程序员一枚，喜欢互联网世界中的浪漫，穷则独善其身，而达则兼济天下!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始的刚刚好，不算太迟，也不算太早。喜欢敲打繁华和浪漫，沉醉于须弥之中，我的故事还在慢慢继续......</p>
 
 <!-- 比较好的开源项目卡片 -->
 <!--<div align="center">
-<a href="https://github.com/JanYork/Library-">
+<a href="https://github.com/iaesun">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanYork&repo=Library-&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/JanYork/JanYork">
+<a href="https://github.com/iaesun">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanYork&repo=JanYork&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>-->
 
